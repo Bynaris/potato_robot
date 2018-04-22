@@ -1,0 +1,23 @@
+ID;Description;Value;Schematic Ref;Packaging;Quantity;Farnell (element14) P/N;Digikey P/N
+1;Ceramic Capacitor, 100nF;;C2, C4, C5, C8, C9, C10, C13;SMD 0805;7;;
+2;Ceramic Capacitor, 10µF;;C1, C3, C6, C7, C11, C12;SMD 0805;6;;
+3;Screw Terminal;;J1, J2, J3;TH 2 x 2.54mm;3;2112482;A98333-ND 
+4;Inductance, 22µH;22µH / 630mA / 700mΩ;L1;;1;744045220;732-3074-1-ND
+5;Inductance, 1,5µH;;L2;;1;2749055;732-10740-6-ND
+6;Resistor, 5kΩ;;R13;SMD 0805;1;;
+7;Resistor, 100kΩ;;R11;SMD 0805;1;;
+8;Resistor, 470kΩ;;R14;SMD 0805;1;;
+9;Resistor, 560kΩ;;R12;SMD 0805;1;;
+10;Resistor, 1.69MΩ;;R10;SMD 0805;1;;
+11;Resistor, 3.48MΩ;;R8;SMD 0805;1;;
+12;Resistor, 3.74MΩ;;R4;SMD 0805;1;;
+13;Resistor, 4.42MΩ;;R3, R7;SMD 0805;2;;
+14;Resistor, 4.87MΩ;;R9;SMD 0805;1;;
+15;Resistor, 5.60MΩ;;R2, R6;SMD 0805;2;;
+16;Resistor, 6.20MΩ;;R5;SMD 0805;1;;
+17;Resistor, 10MΩ;;R1;SMD 0805;1;;
+18;Potentiometer, 10kΩ;;RV1;3x3mm;1;;
+19;Switch SPDT;JS102011SAQN;SW1;;1;2320017;401-1999-1-ND
+20;Energy Harvester;BQ25504;U1;QFN-16 3x3mm;1;2144306;296-29741-1-ND
+21;Boost Converter;TPS63030;U2;VSON-10 2.5x2.5mm;1;2781754;296-39460-1-ND
+22;1.0V Precision Voltage reference;ADR510;U3;SOT-23-3;1;2377029;ADR510ARTZ-REEL7CT-ND
