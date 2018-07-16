@@ -1,4 +1,4 @@
-update=ven. 20 avril 2018 20:00:51 CEST
+update=20/04/2018 16:23:42
 version=1
 last_client=kicad
 [pcbnew]
@@ -65,13 +65,3 @@ LibName35=analog_devices
 LibName36=library/adr510
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=./
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60

@@ -1,0 +1,18 @@
+ID;Description;Value;Schematic Ref;Packaging;Quantity;Farnell (element14) P/N;Digikey P/N
+1;Ceramic Capacitor, 100nF;100nF / X7R / 16V;C1, C3, C4, C6, C7, C8, C9, C10, C13, C14, C17, C18;SMD 0603;12;;
+2;Ceramic Capacitor, 10µF;10µF / X5R / 25V;C2, C5, C11, C12;SMD 0805;4;;
+3;Tantalum Capacitor, 10µF;10µF / 16V;C15, C16;Case B;2;;
+4;LED SMD;Green 570nm / 2.1V / 20mA;D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13;SMD 0805;13;;
+5;Sensor Connector;1x3 / 2,54mm;J2, J3, J4, J5;;4;;
+6;ICSP Connector;2x3 / 2,54mm;J6;;1;;
+7;UART Connector;1x6 / 2,54mm;J7;;1;;
+8;I/O Connector;1x8 / 2,54mm;J12;;1;;
+9;Screw Terminal Motor Output;;;TH 2 x 2.54mm;2;;
+10;Screw Terminal Motor Input;;J1, J2, J3;TH 2 x 2.54mm;1;;
+11;Ferrite Bead;MMZ2012Y152B;L1, L2;SMD 0805;2;;
+12;Resistor, 1k5;;R13;SMD 0805;1;;
+13;Resistor, 10k;;R11;SMD 0805;1;;
+14;Resistor, 1M;;R14;SMD 0805;1;;
+15;Resistor, 0.005Ω;;R12;SMD 0805;1;;
+17;Potentiometer, 10kΩ;;RV1, RV2, RV3, RV4;;4;;
+18;Reset Push Button;JS102011SAQN;SW1;;1;;
